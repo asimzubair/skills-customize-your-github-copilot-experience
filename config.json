@@ -41,6 +41,20 @@
       ]
     },
     {
+      "id": "fastapi-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Develop a REST API with FastAPI using Pydantic models and CRUD endpoints.",
+      "path": "assignments/fastapi-apis",
+      "dueDate": "2026-06-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
