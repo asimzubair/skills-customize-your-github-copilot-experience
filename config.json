@@ -72,6 +72,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-testing",
+      "title": "Python Testing and Code Quality",
+      "description": "Learn unit testing and clean code practices by writing testable Python functions and assertions.",
+      "path": "assignments/python-testing",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
