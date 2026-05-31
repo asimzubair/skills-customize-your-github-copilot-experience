@@ -75,7 +75,7 @@
     },
     {
       "id": "python-testing",
-      "title": "Python Testing and Code Quality",
+      "title": "Python Testing and Code Qualityy",
       "description": "Learn unit testing and clean code practices by writing testable Python functions and assertions.",
       "path": "assignments/python-testing",
       "dueDate": "2026-07-15",

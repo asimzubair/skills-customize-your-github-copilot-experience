@@ -40,4 +40,4 @@ Completed program should:
 
 - Use descriptive function and variable names.
 - Include comments that explain the purpose of each function.
-- Avoid duplicate logic and keep each function focused on a single task.
+- Avoid duplicate logic and keep each function focused on a single task please.
